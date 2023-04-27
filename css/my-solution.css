@@ -20,5 +20,26 @@
 /* FINE ESERCIZIO 3 */
 
 /* INIZIO ESERCIZIO 4 */
-
+.ex-4-square:hover{
+    transition: 5s;
+    opacity: 0;
+}
 /* FINE ESERCIZIO 4 */
+
+/* INIZIO ESERCIZIO 5 */
+.ex-5-square:hover{
+    transition: 3s;
+    transform: scale(2);
+}
+
+.ex-5-square:active{
+   transform: scale(0.5);
+}
+/* FINE ESERCIZIO 5 */
+
+/* INIZIO ESERCIZIO 6 */
+.ex-6-img:hover{
+    filter: grayscale(100%);
+}
+/* FINE ESERCIZIO 6 */
+
