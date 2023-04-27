@@ -1,0 +1,24 @@
+/* INIZIO ESERCIZIO 1 */
+.ex-1-square:hover{
+    background-color: red;
+    transition: 5s;
+}
+/* FINE ESERCIZIO 1 */
+
+/* INIZIO ESERCIZIO 2 */
+.ex-2-square:hover{
+    transition: 3s;
+    width: 100%;
+}
+/* FINE ESERCIZIO 2 */
+
+/* INIZIO ESERCIZIO 3 */
+.ex-3-square:hover{
+    transition: 5s;
+    border-radius: 50%;
+}
+/* FINE ESERCIZIO 3 */
+
+/* INIZIO ESERCIZIO 4 */
+
+/* FINE ESERCIZIO 4 */
